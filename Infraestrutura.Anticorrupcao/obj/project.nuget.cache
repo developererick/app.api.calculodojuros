@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "F7V4itz7Uc54KoUNsmRB0UaoqpiD10e+yZtbuhyDvXgaPaZFHEu538QhW8iHKlKbchC1Ss+7/qqY4w969QE0XQ==",
+  "success": true,
+  "projectFilePath": "c:\\labs\\App.API.CalculoDoJuros\\Infraestrutura.Anticorrupcao\\Infraestrutura.Anticorrupcao.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\erick\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

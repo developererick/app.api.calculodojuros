@@ -1,0 +1,9 @@
+c:\labs\App.API.CalculoDoJuros\Dominio.Entidades\bin\Debug\netcoreapp3.1\Dominio.Entidades.deps.json
+c:\labs\App.API.CalculoDoJuros\Dominio.Entidades\bin\Debug\netcoreapp3.1\Dominio.Entidades.dll
+c:\labs\App.API.CalculoDoJuros\Dominio.Entidades\bin\Debug\netcoreapp3.1\Dominio.Entidades.pdb
+c:\labs\App.API.CalculoDoJuros\Dominio.Entidades\obj\Debug\netcoreapp3.1\Dominio.Entidades.AssemblyInfoInputs.cache
+c:\labs\App.API.CalculoDoJuros\Dominio.Entidades\obj\Debug\netcoreapp3.1\Dominio.Entidades.AssemblyInfo.cs
+c:\labs\App.API.CalculoDoJuros\Dominio.Entidades\obj\Debug\netcoreapp3.1\Dominio.Entidades.csproj.CoreCompileInputs.cache
+c:\labs\App.API.CalculoDoJuros\Dominio.Entidades\obj\Debug\netcoreapp3.1\Dominio.Entidades.dll
+c:\labs\App.API.CalculoDoJuros\Dominio.Entidades\obj\Debug\netcoreapp3.1\Dominio.Entidades.pdb
+c:\labs\App.API.CalculoDoJuros\Dominio.Entidades\obj\Debug\netcoreapp3.1\Dominio.Entidades.csprojAssemblyReference.cache

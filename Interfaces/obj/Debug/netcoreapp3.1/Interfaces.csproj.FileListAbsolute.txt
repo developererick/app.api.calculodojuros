@@ -1,0 +1,12 @@
+c:\labs\App.API.CalculoDoJuros\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.deps.json
+c:\labs\App.API.CalculoDoJuros\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.dll
+c:\labs\App.API.CalculoDoJuros\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.pdb
+c:\labs\App.API.CalculoDoJuros\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfoInputs.cache
+c:\labs\App.API.CalculoDoJuros\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfo.cs
+c:\labs\App.API.CalculoDoJuros\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.CoreCompileInputs.cache
+c:\labs\App.API.CalculoDoJuros\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.dll
+c:\labs\App.API.CalculoDoJuros\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.pdb
+c:\labs\App.API.CalculoDoJuros\Interfaces\bin\Debug\netcoreapp3.1\Dominio.Entidades.dll
+c:\labs\App.API.CalculoDoJuros\Interfaces\bin\Debug\netcoreapp3.1\Dominio.Entidades.pdb
+c:\labs\App.API.CalculoDoJuros\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csprojAssemblyReference.cache
+c:\labs\App.API.CalculoDoJuros\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.CopyComplete

@@ -1,0 +1,14 @@
+c:\labs\App.API.CalculoDoJuros\Infraestrutura.Anticorrupcao\bin\Debug\netcoreapp3.1\Infraestrutura.Anticorrupcao.deps.json
+c:\labs\App.API.CalculoDoJuros\Infraestrutura.Anticorrupcao\bin\Debug\netcoreapp3.1\Infraestrutura.Anticorrupcao.dll
+c:\labs\App.API.CalculoDoJuros\Infraestrutura.Anticorrupcao\bin\Debug\netcoreapp3.1\Infraestrutura.Anticorrupcao.pdb
+c:\labs\App.API.CalculoDoJuros\Infraestrutura.Anticorrupcao\bin\Debug\netcoreapp3.1\Interfaces.dll
+c:\labs\App.API.CalculoDoJuros\Infraestrutura.Anticorrupcao\bin\Debug\netcoreapp3.1\Interfaces.pdb
+c:\labs\App.API.CalculoDoJuros\Infraestrutura.Anticorrupcao\obj\Debug\netcoreapp3.1\Infraestrutura.Anticorrupcao.csprojAssemblyReference.cache
+c:\labs\App.API.CalculoDoJuros\Infraestrutura.Anticorrupcao\obj\Debug\netcoreapp3.1\Infraestrutura.Anticorrupcao.AssemblyInfoInputs.cache
+c:\labs\App.API.CalculoDoJuros\Infraestrutura.Anticorrupcao\obj\Debug\netcoreapp3.1\Infraestrutura.Anticorrupcao.AssemblyInfo.cs
+c:\labs\App.API.CalculoDoJuros\Infraestrutura.Anticorrupcao\obj\Debug\netcoreapp3.1\Infraestrutura.Anticorrupcao.csproj.CoreCompileInputs.cache
+c:\labs\App.API.CalculoDoJuros\Infraestrutura.Anticorrupcao\obj\Debug\netcoreapp3.1\Infraestrutura.Anticorrupcao.csproj.CopyComplete
+c:\labs\App.API.CalculoDoJuros\Infraestrutura.Anticorrupcao\obj\Debug\netcoreapp3.1\Infraestrutura.Anticorrupcao.dll
+c:\labs\App.API.CalculoDoJuros\Infraestrutura.Anticorrupcao\obj\Debug\netcoreapp3.1\Infraestrutura.Anticorrupcao.pdb
+c:\labs\App.API.CalculoDoJuros\Infraestrutura.Anticorrupcao\bin\Debug\netcoreapp3.1\Dominio.Entidades.dll
+c:\labs\App.API.CalculoDoJuros\Infraestrutura.Anticorrupcao\bin\Debug\netcoreapp3.1\Dominio.Entidades.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eGt2S98Tt9soMtjDFqxERPBP9QjhJCXGgvWtfV0QUksdvgMiNt/bgWrf+nM7CRFVu+8K/W0C81x0xfKzgYlanw==",
+  "success": true,
+  "projectFilePath": "c:\\labs\\App.API.CalculoDoJuros\\App.API.CalculoDoJuros\\App.API.CalculoDoJuros.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\erick\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+c:\labs\App.API.CalculoDoJuros\Dominio.Servicos\bin\Debug\netcoreapp3.1\Dominio.Servicos.deps.json
+c:\labs\App.API.CalculoDoJuros\Dominio.Servicos\bin\Debug\netcoreapp3.1\Dominio.Servicos.dll
+c:\labs\App.API.CalculoDoJuros\Dominio.Servicos\bin\Debug\netcoreapp3.1\Dominio.Servicos.pdb
+c:\labs\App.API.CalculoDoJuros\Dominio.Servicos\bin\Debug\netcoreapp3.1\Interfaces.dll
+c:\labs\App.API.CalculoDoJuros\Dominio.Servicos\bin\Debug\netcoreapp3.1\Interfaces.pdb
+c:\labs\App.API.CalculoDoJuros\Dominio.Servicos\obj\Debug\netcoreapp3.1\Dominio.Servicos.csprojAssemblyReference.cache
+c:\labs\App.API.CalculoDoJuros\Dominio.Servicos\obj\Debug\netcoreapp3.1\Dominio.Servicos.AssemblyInfoInputs.cache
+c:\labs\App.API.CalculoDoJuros\Dominio.Servicos\obj\Debug\netcoreapp3.1\Dominio.Servicos.AssemblyInfo.cs
+c:\labs\App.API.CalculoDoJuros\Dominio.Servicos\obj\Debug\netcoreapp3.1\Dominio.Servicos.csproj.CoreCompileInputs.cache
+c:\labs\App.API.CalculoDoJuros\Dominio.Servicos\obj\Debug\netcoreapp3.1\Dominio.Servicos.csproj.CopyComplete
+c:\labs\App.API.CalculoDoJuros\Dominio.Servicos\obj\Debug\netcoreapp3.1\Dominio.Servicos.dll
+c:\labs\App.API.CalculoDoJuros\Dominio.Servicos\obj\Debug\netcoreapp3.1\Dominio.Servicos.pdb
+c:\labs\App.API.CalculoDoJuros\Dominio.Servicos\bin\Debug\netcoreapp3.1\Dominio.Entidades.dll
+c:\labs\App.API.CalculoDoJuros\Dominio.Servicos\bin\Debug\netcoreapp3.1\Dominio.Entidades.pdb
