@@ -6,6 +6,8 @@ namespace Interfaces.Infraestrutura
 {
     public interface IServicoDeInfraestruturaDeConfiguracoes
     {
-        string RecuperarUrl();
+        string RecuperarUrlApiConsultaTaxaDeJuros();
+        string RecuperarUrlApiTaxaDeJurosGitHub();
+        string RecuperarUrlApiCalculoDeJurosGitHub();
     }
 }

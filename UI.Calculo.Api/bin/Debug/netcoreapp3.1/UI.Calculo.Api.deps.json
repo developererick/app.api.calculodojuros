@@ -421,6 +421,8 @@
       "Dominio.Servicos/1.0.0": {
         "dependencies": {
           "Dominio.Entidades": "1.0.0",
+          "Infraestrutura.Anticorrupcao": "1.0.0",
+          "Infraestrutura.Servicos": "1.0.0",
           "Interfaces": "1.0.0"
         },
         "runtime": {

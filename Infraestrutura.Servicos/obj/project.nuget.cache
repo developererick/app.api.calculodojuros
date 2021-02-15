@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hYznpw66nrntNBPcWeGUKepllaifqvEK/4nw6YVIPZa+RKJmrzDuB9fr/YEbZTklN6/JGrvyaPbpkwid9QRmFA==",
+  "dgSpecHash": "l8ob3c7VEWk19X9S2a2YArB1dVfDdBQn320AzSYUPyQOwwWLcrcjcJm0WdrjOOgBSGlmiX+Dn9l1yf9DyANhFA==",
   "success": true,
-  "projectFilePath": "C:\\labs\\App.API.CalculoDoJuros\\Infraestrutura.Servicos\\Infraestrutura.Servicos.csproj",
+  "projectFilePath": "c:\\labs\\App.API.CalculoDoJuros\\Infraestrutura.Servicos\\Infraestrutura.Servicos.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

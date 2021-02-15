@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\labs\\App.API.CalculoDoJuros\\Infraestrutura.Servicos\\Infraestrutura.Servicos.csproj": {}
+    "c:\\labs\\App.API.CalculoDoJuros\\Infraestrutura.Servicos\\Infraestrutura.Servicos.csproj": {}
   },
   "projects": {
     "c:\\labs\\App.API.CalculoDoJuros\\Dominio.Entidades\\Dominio.Entidades.csproj": {
@@ -58,14 +58,14 @@
         }
       }
     },
-    "C:\\labs\\App.API.CalculoDoJuros\\Infraestrutura.Servicos\\Infraestrutura.Servicos.csproj": {
+    "c:\\labs\\App.API.CalculoDoJuros\\Infraestrutura.Servicos\\Infraestrutura.Servicos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\labs\\App.API.CalculoDoJuros\\Infraestrutura.Servicos\\Infraestrutura.Servicos.csproj",
+        "projectUniqueName": "c:\\labs\\App.API.CalculoDoJuros\\Infraestrutura.Servicos\\Infraestrutura.Servicos.csproj",
         "projectName": "Infraestrutura.Servicos",
-        "projectPath": "C:\\labs\\App.API.CalculoDoJuros\\Infraestrutura.Servicos\\Infraestrutura.Servicos.csproj",
+        "projectPath": "c:\\labs\\App.API.CalculoDoJuros\\Infraestrutura.Servicos\\Infraestrutura.Servicos.csproj",
         "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
-        "outputPath": "C:\\labs\\App.API.CalculoDoJuros\\Infraestrutura.Servicos\\obj\\",
+        "outputPath": "c:\\labs\\App.API.CalculoDoJuros\\Infraestrutura.Servicos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\labs\\App.API.CalculoDoJuros\\Interfaces\\Interfaces.csproj": {
-                "projectPath": "C:\\labs\\App.API.CalculoDoJuros\\Interfaces\\Interfaces.csproj"
+              "c:\\labs\\App.API.CalculoDoJuros\\Interfaces\\Interfaces.csproj": {
+                "projectPath": "c:\\labs\\App.API.CalculoDoJuros\\Interfaces\\Interfaces.csproj"
               }
             }
           }

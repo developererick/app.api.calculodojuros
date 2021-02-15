@@ -9,6 +9,7 @@ namespace Infraestrutura.IoC
         public static void AddServicosDeAplicacao(this IServiceCollection services)
         {
             services.AddScoped<IServicoDeAplicacaoDeCalculoDeJuros, ServicoDeAplicacaoDeCalculoDeJuros>();
+            services.AddScoped<IServicoDeAplicacaoDeConsultaDeInformacoesDoSistema, ServicoDeAplicacaoDeConsultaDeInformacoesDoSistema>();
         }
     }
 }

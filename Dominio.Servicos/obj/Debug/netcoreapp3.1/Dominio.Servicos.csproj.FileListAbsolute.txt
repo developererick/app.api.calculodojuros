@@ -12,3 +12,7 @@ c:\labs\App.API.CalculoDoJuros\Dominio.Servicos\obj\Debug\netcoreapp3.1\Dominio.
 c:\labs\App.API.CalculoDoJuros\Dominio.Servicos\obj\Debug\netcoreapp3.1\Dominio.Servicos.pdb
 c:\labs\App.API.CalculoDoJuros\Dominio.Servicos\bin\Debug\netcoreapp3.1\Dominio.Entidades.dll
 c:\labs\App.API.CalculoDoJuros\Dominio.Servicos\bin\Debug\netcoreapp3.1\Dominio.Entidades.pdb
+C:\labs\App.API.CalculoDoJuros\Dominio.Servicos\bin\Debug\netcoreapp3.1\Infraestrutura.Anticorrupcao.dll
+C:\labs\App.API.CalculoDoJuros\Dominio.Servicos\bin\Debug\netcoreapp3.1\Infraestrutura.Servicos.dll
+C:\labs\App.API.CalculoDoJuros\Dominio.Servicos\bin\Debug\netcoreapp3.1\Infraestrutura.Anticorrupcao.pdb
+C:\labs\App.API.CalculoDoJuros\Dominio.Servicos\bin\Debug\netcoreapp3.1\Infraestrutura.Servicos.pdb

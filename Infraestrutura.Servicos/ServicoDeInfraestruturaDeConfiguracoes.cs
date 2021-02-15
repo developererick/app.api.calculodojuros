@@ -16,14 +16,28 @@ namespace Infraestrutura.Servicos
             this._appSettings = appSettings;
         }
 
-        public AppSettings ConfiguracoesAmbiente()
+        public ServicoDeInfraestruturaDeConfiguracoes()
         {
-            return _appSettings;
+            //adicionado para possibilitar a execução através do projeto de teste
+            //a aplicação publicada irá realizar a leitura da url a partir do appsettings.json
+            this._appSettings = new AppSettings { UrlApiTaxaDeJuros = "http://localhost:55425/api/v1/juros/taxajuros" };
         }
 
-        public string RecuperarUrl()
+        public string RecuperarUrlApiConsultaTaxaDeJuros()
         {
-            string url = _appSettings.TaxaDeJurosAPIUrl;
+            string url = _appSettings.UrlApiTaxaDeJuros;
+            return url.Trim();
+        }
+
+        public string RecuperarUrlApiTaxaDeJurosGitHub()
+        {
+            string url = _appSettings.UrlApiTaxaDeJurosGitHub;
+            return url.Trim();
+        }
+
+        public string RecuperarUrlApiCalculoDeJurosGitHub()
+        {
+            string url = _appSettings.UrlApiCalculoDeJurosGitHub;
             return url.Trim();
         }
     }

@@ -146,6 +146,137 @@
               "c:\\labs\\App.API.CalculoDoJuros\\Dominio.Entidades\\Dominio.Entidades.csproj": {
                 "projectPath": "c:\\labs\\App.API.CalculoDoJuros\\Dominio.Entidades\\Dominio.Entidades.csproj"
               },
+              "c:\\labs\\App.API.CalculoDoJuros\\Infraestrutura.Anticorrupcao\\Infraestrutura.Anticorrupcao.csproj": {
+                "projectPath": "c:\\labs\\App.API.CalculoDoJuros\\Infraestrutura.Anticorrupcao\\Infraestrutura.Anticorrupcao.csproj"
+              },
+              "c:\\labs\\App.API.CalculoDoJuros\\Infraestrutura.Servicos\\Infraestrutura.Servicos.csproj": {
+                "projectPath": "c:\\labs\\App.API.CalculoDoJuros\\Infraestrutura.Servicos\\Infraestrutura.Servicos.csproj"
+              },
+              "c:\\labs\\App.API.CalculoDoJuros\\Interfaces\\Interfaces.csproj": {
+                "projectPath": "c:\\labs\\App.API.CalculoDoJuros\\Interfaces\\Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\labs\\App.API.CalculoDoJuros\\Infraestrutura.Anticorrupcao\\Infraestrutura.Anticorrupcao.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\labs\\App.API.CalculoDoJuros\\Infraestrutura.Anticorrupcao\\Infraestrutura.Anticorrupcao.csproj",
+        "projectName": "Infraestrutura.Anticorrupcao",
+        "projectPath": "c:\\labs\\App.API.CalculoDoJuros\\Infraestrutura.Anticorrupcao\\Infraestrutura.Anticorrupcao.csproj",
+        "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
+        "outputPath": "c:\\labs\\App.API.CalculoDoJuros\\Infraestrutura.Anticorrupcao\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "c:\\labs\\App.API.CalculoDoJuros\\Dominio.Entidades\\Dominio.Entidades.csproj": {
+                "projectPath": "c:\\labs\\App.API.CalculoDoJuros\\Dominio.Entidades\\Dominio.Entidades.csproj"
+              },
+              "c:\\labs\\App.API.CalculoDoJuros\\Interfaces\\Interfaces.csproj": {
+                "projectPath": "c:\\labs\\App.API.CalculoDoJuros\\Interfaces\\Interfaces.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\labs\\App.API.CalculoDoJuros\\Infraestrutura.Servicos\\Infraestrutura.Servicos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\labs\\App.API.CalculoDoJuros\\Infraestrutura.Servicos\\Infraestrutura.Servicos.csproj",
+        "projectName": "Infraestrutura.Servicos",
+        "projectPath": "c:\\labs\\App.API.CalculoDoJuros\\Infraestrutura.Servicos\\Infraestrutura.Servicos.csproj",
+        "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
+        "outputPath": "c:\\labs\\App.API.CalculoDoJuros\\Infraestrutura.Servicos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
               "c:\\labs\\App.API.CalculoDoJuros\\Interfaces\\Interfaces.csproj": {
                 "projectPath": "c:\\labs\\App.API.CalculoDoJuros\\Interfaces\\Interfaces.csproj"
               }

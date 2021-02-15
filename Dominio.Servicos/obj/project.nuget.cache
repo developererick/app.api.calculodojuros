@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "9UBiZWoG2VfgoCTi3tpeAFr+7bV4xJDTDlTKpmIQi0CWBgs+KNHdTIsXHvEotWr7iwOsI5Q6S8ROlshaJICEhw==",
+  "dgSpecHash": "TTCkIwNfcsHy1/YM6+Vtubfhr75Ap6j7uUJah5vqO0++HagEu50MSC1Oav3x/zO2MXWp/HPK0HT18U3Hw9WBkg==",
   "success": true,
   "projectFilePath": "c:\\labs\\App.API.CalculoDoJuros\\Dominio.Servicos\\Dominio.Servicos.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\erick\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

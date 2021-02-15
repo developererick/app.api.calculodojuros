@@ -6,6 +6,8 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Dominio.Entidades\Dominio.Entidades.csproj" />
+    <ProjectReference Include="..\Infraestrutura.Anticorrupcao\Infraestrutura.Anticorrupcao.csproj" />
+    <ProjectReference Include="..\Infraestrutura.Servicos\Infraestrutura.Servicos.csproj" />
     <ProjectReference Include="..\Interfaces\Interfaces.csproj" />
   </ItemGroup>
 

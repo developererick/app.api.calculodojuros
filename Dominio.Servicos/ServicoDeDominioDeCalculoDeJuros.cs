@@ -1,10 +1,9 @@
 ﻿using Dominio.Entidades;
+using Infraestrutura.Anticorrupcao;
+using Infraestrutura.Servicos;
 using Interfaces.Dominio;
 using Interfaces.Infraestrutura;
 using System;
-using System.Collections.Generic;
-using System.Globalization;
-using System.Text;
 
 namespace Dominio.Servicos
 {
@@ -18,22 +17,23 @@ namespace Dominio.Servicos
             this._servicoDeInfraestruturaDeConfiguracoes = servicoDeInfraestruturaDeConfiguracoes;
             this._servicoDeInfraestruturaAnticurrupacaoConsultaTaxaDeJuros = servicoDeInfraestruturaAnticurrupacaoConsultaTaxaDeJuros;
         }
+        public ServicoDeDominioDeCalculoDeJuros()
+        {
+            this._servicoDeInfraestruturaAnticurrupacaoConsultaTaxaDeJuros = new ServicoDeInfraestruturaAnticurrupacaoConsultaTaxaDeJuros();
+            this._servicoDeInfraestruturaDeConfiguracoes = new ServicoDeInfraestruturaDeConfiguracoes();
+        }
         public decimal CalcularJurosComposto(decimal valorInicial, int tempoEmMeses)
         {
             if(valorInicial<=0.00M)
-                throw new ArgumentException("O valor inicial não pode ser maior que zero.");
+                throw new ArgumentException("O valor inicial não pode ser menor que zero.");
             if (tempoEmMeses < 1)
                 throw new ArgumentException("O tempo em meses deve ser maior ou igual a um.");
 
-            var urlApiConsultaTaxaDeJuros = _servicoDeInfraestruturaDeConfiguracoes.RecuperarUrl();
-            if (String.IsNullOrEmpty(urlApiConsultaTaxaDeJuros))
-                throw new ArgumentNullException("A URL de acesso da API de Consulta de Taxa de Juros não foi preenchida");
-
+            var urlApiConsultaTaxaDeJuros = _servicoDeInfraestruturaDeConfiguracoes.RecuperarUrlApiConsultaTaxaDeJuros();
             var parametrosDeAcessoApiConsultaTaxaDeJuros = new ParametrosAPIConsultaTaxaDeJuros
             {
                 urlApi = urlApiConsultaTaxaDeJuros
             };
-
             var taxaDeJuros = _servicoDeInfraestruturaAnticurrupacaoConsultaTaxaDeJuros.ConsultarTaxaDeJuros(parametrosDeAcessoApiConsultaTaxaDeJuros);
 
             var taxaDeJurosDouble = Convert.ToDouble(taxaDeJuros);

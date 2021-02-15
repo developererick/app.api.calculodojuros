@@ -1,5 +1,4 @@
-﻿using Dominio.Servicos;
-using Interfaces.Aplicacao;
+﻿using Interfaces.Aplicacao;
 using Interfaces.Dominio;
 
 namespace Aplicacao.Servicos

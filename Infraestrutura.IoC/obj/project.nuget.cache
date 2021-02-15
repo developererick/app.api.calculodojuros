@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "N6YCRHie/BzKHAaAAz4jFHPS0LekwpALVm2RWcfPId8jb6QDNCGzqZyN+kPY/coV0R21WflgXP+WLjhWDES79Q==",
+  "dgSpecHash": "1fsRmo3PmX8CaZvBRrFyw2AWdvqIhFmzzqDa5X05hf4N236DYxV+fJ7WKTTsxXCwXUknsdYNXfN8XeumOP0kEQ==",
   "success": true,
   "projectFilePath": "c:\\labs\\App.API.CalculoDoJuros\\Infraestrutura.IoC\\Infraestrutura.IoC.csproj",
   "expectedPackageFiles": [

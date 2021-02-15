@@ -10,6 +10,7 @@ namespace Infraestrutura.IoC
         public static void AddServicosDeDominio(this IServiceCollection services)
         {
             services.AddScoped<IServicoDeDominioDeCalculoDeJuros, ServicoDeDominioDeCalculoDeJuros>();
+            services.AddScoped<IServicoDeDominioDeConsultaDeInformacoesDoSistema, ServicoDeDominioDeConsultaDeInformacoesDoSistema>();
         }
     }
 }

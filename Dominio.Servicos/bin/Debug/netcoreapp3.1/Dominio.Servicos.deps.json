@@ -9,15 +9,43 @@
       "Dominio.Servicos/1.0.0": {
         "dependencies": {
           "Dominio.Entidades": "1.0.0",
+          "Infraestrutura.Anticorrupcao": "1.0.0",
+          "Infraestrutura.Servicos": "1.0.0",
           "Interfaces": "1.0.0"
         },
         "runtime": {
           "Dominio.Servicos.dll": {}
         }
       },
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      },
       "Dominio.Entidades/1.0.0": {
         "runtime": {
           "Dominio.Entidades.dll": {}
+        }
+      },
+      "Infraestrutura.Anticorrupcao/1.0.0": {
+        "dependencies": {
+          "Dominio.Entidades": "1.0.0",
+          "Interfaces": "1.0.0",
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "runtime": {
+          "Infraestrutura.Anticorrupcao.dll": {}
+        }
+      },
+      "Infraestrutura.Servicos/1.0.0": {
+        "dependencies": {
+          "Interfaces": "1.0.0"
+        },
+        "runtime": {
+          "Infraestrutura.Servicos.dll": {}
         }
       },
       "Interfaces/1.0.0": {
@@ -36,7 +64,24 @@
       "serviceable": false,
       "sha512": ""
     },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    },
     "Dominio.Entidades/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Infraestrutura.Anticorrupcao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Infraestrutura.Servicos/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
